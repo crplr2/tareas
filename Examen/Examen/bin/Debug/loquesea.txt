@@ -1,0 +1,1 @@
+El area del cuadrado con lado de 4 es 16    El area del rectangulo con base de 3 y con altura de 4 es 12    El area del circulo con radio de 3 es 28.2743338823081    El perimetro del cuadrado con lado de 4 es 16    El perimetro del rectangulo con base de 3 y con altura de 4 es 14    El perimetro del circulo con radio de 3 es 18.8495559215388    

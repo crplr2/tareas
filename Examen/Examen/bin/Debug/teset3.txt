@@ -1,0 +1,4 @@
+El area del cuadrado con lado de 3 es 9
+El area del rectangulo con base de 4 y con altura de 3 es 12
+El area del circulo con radio de 5 es 78.5398163397448
+

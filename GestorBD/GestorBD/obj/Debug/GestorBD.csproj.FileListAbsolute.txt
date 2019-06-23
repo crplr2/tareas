@@ -1,0 +1,14 @@
+C:\Users\jfrivera\source\repos\11\GestorBD\GestorBD\bin\Debug\GestorBD.dll
+C:\Users\jfrivera\source\repos\11\GestorBD\GestorBD\bin\Debug\GestorBD.pdb
+C:\Users\jfrivera\source\repos\11\GestorBD\GestorBD\obj\Debug\GestorBD.csprojAssemblyReference.cache
+C:\Users\jfrivera\source\repos\11\GestorBD\GestorBD\obj\Debug\GestorBD.csproj.CoreCompileInputs.cache
+C:\Users\jfrivera\source\repos\11\GestorBD\GestorBD\obj\Debug\GestorBD.dll
+C:\Users\jfrivera\source\repos\11\GestorBD\GestorBD\obj\Debug\GestorBD.pdb
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\2 Parcial\GestorBD\GestorBD\bin\Debug\GestorBD.dll
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\2 Parcial\GestorBD\GestorBD\bin\Debug\GestorBD.pdb
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\2 Parcial\GestorBD\GestorBD\obj\Debug\GestorBD.dll
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\2 Parcial\GestorBD\GestorBD\obj\Debug\GestorBD.pdb
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\GestorBD\GestorBD\bin\Debug\GestorBD.dll
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\GestorBD\GestorBD\bin\Debug\GestorBD.pdb
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\GestorBD\GestorBD\obj\Debug\GestorBD.dll
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\GestorBD\GestorBD\obj\Debug\GestorBD.pdb

@@ -1,0 +1,28 @@
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Parcial 1\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Parcial 1\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Parcial 1\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Parcial 1\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Parcial 1\Examen\Examen\obj\Debug\Examen.Form1.resources
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Parcial 1\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Parcial 1\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.Cache
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Parcial 1\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Parcial 1\Examen\Examen\obj\Debug\Examen.pdb
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\1 Parcial\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\1 Parcial\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\1 Parcial\Examen\Examen\obj\Debug\Examen.pdb
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\1 Parcial\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\1 Parcial\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\1 Parcial\Examen\Examen\obj\Debug\Examen.Form1.resources
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\1 Parcial\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\1 Parcial\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.Cache
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\Examen\Examen\obj\Debug\Examen.pdb
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\Examen\Examen\obj\Debug\Examen.Form1.resources
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.Cache
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\Examen\Examen\bin\Debug\GestorBD.dll
+C:\Users\soycp\Documents\escuela\11 cuatrimestre\Visual y por eventos\Tareas\TAREAS\Examen\Examen\bin\Debug\GestorBD.pdb
